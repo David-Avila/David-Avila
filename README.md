@@ -1,9 +1,6 @@
-- Hi, I’m @David-Avila
-- I’m interested in programing
-- I’m currently learning front-end webdev
-- I’m looking to collaborate on whatever project i can help
-- How to reach me: Via email aviladurandavid613@gmail.com
-
+- Hi, I’m @David-Avila. I may not have a lot of experience
+but I sure love programming. 
+ 
 <!---
 David-Avila/David-Avila is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
