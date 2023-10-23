@@ -1,5 +1,4 @@
-- Hi, I’m @David-Avila. I may not have a lot of experience
-but I sure love programming. 
+- Hello - 
  
 <!---
 David-Avila/David-Avila is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
